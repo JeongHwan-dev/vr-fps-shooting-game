@@ -42,13 +42,19 @@
 
 ## 5. 게임 소개
 
+<img src="/images/intro.png" width="800" height="350" />
+
 
 
 ## 6. GAME MAP
 
+<img src="/images/intro.png" width="800" height="450" />
+
 
 
 ## 7. 게임 플레이 TIP!
+
+<img src="/images/tip.png" width="800" height="450" />
 
 
 
