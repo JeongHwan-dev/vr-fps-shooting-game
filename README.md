@@ -1,6 +1,6 @@
-# VR FPS Shooting Game (Monster Killer)
+# :video_game: VR FPS Shooting Game (Monster Killer)
 
-
+`\*Git repository 용량 제한 문제로 Assets 파일들만 커밋되어 있습니다.`
 
 ## 1. 프로젝트 진행 배경
 
@@ -48,7 +48,7 @@
 
 ## 6. GAME MAP
 
-<img src="/images/intro.png" width="800" height="450" />
+<img src="/images/map.png" width="800" height="450" />
 
 
 
@@ -60,7 +60,27 @@
 
 ## 8. GAME SCENES
 
+<img src="/images/scene1.png" width="800" height="450" />
+
+<img src="/images/scene2.png" width="800" height="450" />
+
+<img src="/images/scene3.png" width="800" height="450" />
+
+<img src="/images/scene4.png" width="800" height="450" />
+
+<img src="/images/scene5.png" width="800" height="450" />
+
 
 
 ## 9. 주요 코드
+
+<img src="/images/code1.png" width="800" height="450" />
+
+<img src="/images/code2.png" width="800" height="450" />
+
+<img src="/images/code3.png" width="800" height="450" />
+
+<img src="/images/code4.png" width="800" height="450" />
+
+<img src="/images/code5.png" width="800" height="450" />
 
