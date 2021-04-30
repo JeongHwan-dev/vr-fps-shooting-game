@@ -8,19 +8,19 @@
 
 &nbsp;&nbsp;우리나라 역시 VR 시장을 확보를 위해 SKT, KT,  LG U+ 등이 앞다퉈 다양한 VR 콘텐츠들을 선보이고 있는 가운데 VR 시장에서 가장 인기있는 분야인 게임 분야에 대한 VR 콘텐츠 제작을 진행하게 되었다.
 
-<img src="/images/news.png" width="600" height="300" />
+<img src="/images/news.png" width="600" height="320" />
 
 
 
 ## 2. 프로젝트 팀 멤버
 
-<img src="/images/members.png" width="600" height="400" />
+<img src="/images/members.png" width="600" height="350" />
 
 
 
 ## 3. 프로젝트 진행 기간
 
-<img src="/images/progress.png" width="600" height="250" />
+<img src="/images/progress.png" width="800" height="300" />
 
 
 
